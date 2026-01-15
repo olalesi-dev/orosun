@@ -1,0 +1,4 @@
+{
+  "hosting": { "public": "web" },
+  "functions": { "source": "fn" }
+}
